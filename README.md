@@ -1,8 +1,7 @@
 
 # Boop clone
 
-A game by Smirk and Laughter  
-[Boop](https://www.smirkandlaughter.com/boop "Home page for Boop")  
+A game by [Smirk and Laughter](https://www.smirkandlaughter.com/boop "Home page for Boop")  
 [Rules](https://www.smirkandlaughter.com/_files/ugd/693f33_5cd5b748ac194385a4fac5fb168076e7.pdf "Rules pdf") 
 
 ## Rules
